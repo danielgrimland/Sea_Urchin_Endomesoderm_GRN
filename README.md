@@ -4,7 +4,7 @@ Authors: Daniel Grimland, Eitan Tannebaum, Hillel Kugler
 
 ## Project Description
 
-This scientific research project aims to model the gene expressions in the Purple Sea Urchin (Strongylocentrotus purpuratus) endomesoderm Gene Regulatory Network (GRN) using a methodology called RE:IN. By studying the cell fate of stem cells in the endomesoderm, we seek to gain insights into the development of these creatures, understand the architecture of the GRN, and improve current models.
+This scientific research project aims to model gene expression of stem cells of the Purple Sea Urchin (Strongylocentrotus purpuratus) in the endomesoderm area of the embryo. This is done by computational modeling using a methodology called Reasoning Engine: Interaction Networks, or RE:IN. The biological system modeled, the Gene Regulatory Network (GRN), captures gene expression processes across different cells. By modeling and alayzing cell fate of stem cells in the endomesoderm, we seek to gain insights into the development of creatures, understand the architecture of the endomesoderm GRN, and improve current models of it.
 
 ## Motivation
 
@@ -12,25 +12,25 @@ The motivation behind this project is to unravel the complex mechanisms governin
 
 ## Problem Statement
 
-The problem we aim to solve is the accurate modeling of stem cell gene expressions in the Purple Sea Urchin endomesoderm GRN. This involves deciphering the intricate network of gene interactions and predicting the expression patterns of various genes during different stages of development. By tackling this problem, we hope to shed light on the mechanisms underlying cell fate determination and enhance our understanding of developmental processes.
+The problem we aim to solve is the accurate modeling of stem cell gene expressions in the Purple Sea Urchin endomesoderm GRN. This is done in great part by the combiniation of existing research and models with mathematical analysis tools to construct and robustly check models.
 
 ## Key Features
 
 This research project incorporates the following key features:
 
-### Key Features1
+### ABN Synthesis
 
 Abstract Boolean Networks (ABNs): We translate data on the system components of the endomesoderm GRN into abstract boolean networks. ABNs provide a simplified representation of gene regulatory interactions, capturing the essential dynamics of the system.
 
-### Key Features2
+### Experimental Constraints Synthesis
 
 Experimental Data Translation: Experimental data is translated into constraints for the model. By incorporating real-world observations, we enhance the accuracy and reliability of the modeled GRN.
 
-### Key Features3
+### Efficient Combination of Constraints and ABNs
 
 Efficient Combination of ABNs and Constraints: We develop an efficient methodology to combine the abstract boolean networks with experimental constraints, resulting in constrained abstract boolean networks (cABNs). This integration allows us to refine the model and align it with the observed behavior of the Purple Sea Urchin endomesoderm GRN.
 
-For more detailed information, including datasets, methodologies, and results, please visit the Google Drive.
+For more detailed information, including datasets, methodologies, and results, please visit the [Google Drive](https://drive.google.com/drive/folders/1kTuuoFASoQJX4B_maZtMgoKgnVXuiLjd?usp=sharing).
 
 ## License
 
