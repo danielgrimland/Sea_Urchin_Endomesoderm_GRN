@@ -1,6 +1,6 @@
 # Endomesoderm GRN Modeling Using RE:IN in Purple Sea Urchins
 
-Authors: Daniel Grimland, Eitan Tannebaum
+Daniel Grimland, Eitan Tannebaum
 
 ## Project Description
 
