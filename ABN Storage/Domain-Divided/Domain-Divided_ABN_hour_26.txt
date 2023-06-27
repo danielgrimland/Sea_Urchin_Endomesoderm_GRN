@@ -1,0 +1,482 @@
+nodal_ecto_oralNSM(1..17);
+
+smad_not_protien_oralNSM(1..17);
+
+smad_oralNSM(1..17);
+
+not_oralNSM(1..17);
+
+unkn_runx_oralNSM(1..17);
+
+unkn_gatac_oralNSM(1..17);
+
+gatac_oralNSM(1..17);
+
+unkn_scl_oralNSM(1..17);
+
+scl_oralNSM(1..17);
+
+runx_oralNSM(1..17);
+
+ese_oralNSM(1..17);
+
+prox_oralNSM(1..17);
+
+r11pmdelta_oralNSM(1..17);
+
+r11pmdelta_nrl_protien_oralNSM(1..17);
+
+unkn_nrl_oralNSM(1..17);
+
+blimp1_activate_oralNSM(1..17);
+
+otx_oralNSM(1..17);
+
+erg_oralNSM(1..17);
+
+hex_oralNSM(1..17);
+
+gcm_aboralNSM(1..17);
+
+six12_aboralNSM(1..17);
+
+gatae_aboralNSM(1..17);
+
+unkn_runx_aboralNSM(1..17);
+
+runx_aboralNSM(1..17);
+
+z166_aboralNSM(1..17);
+
+otx_aboralNSM(1..17);
+
+blimp1_activate_aboralNSM(1..17);
+
+r11pmdelta_nrl_protien_aboralNSM(1..17);
+
+r11pmdelta_aboralNSM(1..17);
+
+fog_aboralNSM(1..17);
+
+gatae_fog_protien_aboralNSM(1..17);
+
+capk_oralNSM_diff(1..17);
+
+decorin_oralNSM_diff(1..17);
+
+capk_aboralNSM_diff(1..17);
+
+decorin_aboralNSM_diff(1..17);
+
+pks_aboralNSM_diff(1..17);
+
+sutx_aboralNSM_diff(1..17);
+
+dpt_aboralNSM_diff(1..17);
+
+fvmo123_aboralNSM_diff(1..17);
+
+notch_smallMIC(1..17);
+
+suhn_smallMIC(1..17);
+
+notch_suhn_protien_smallMIC(1..17);
+
+suh_smallMIC(1..17);
+
+suh_notch_suhn_protien_smallMIC(1..17);
+
+foxy_smallMIC(1..17);
+
+unkn_soxe_smallMIC(1..17);
+
+soxe_smallMIC(1..17);
+
+smo_smallMIC(1..17);
+
+ptc_smallMIC(1..17);
+
+smo_ptc_hh_protien_smallMIC(1..17);
+
+gsk3_veg_endo_1(1..17);
+
+wnt8_veg_endo_1(1..17);
+
+eve_veg_endo_1(1..17);
+
+hox1113b_veg_endo_1(1..17);
+
+otx_veg_endo_1(1..17);
+
+hnf1_veg_endo_1(1..17);
+
+signalv2_veg_endo_1(1..17);
+
+vegf3_veg_endo_1(1..17);
+
+gsk3_x_protien_veg_endo_1(1..17);
+
+x_nbtcf_protien_veg_endo_1(1..17);
+
+bra_veg_endo_1(1..17);
+
+nbtcf_protien_veg_ecto_1(1..17);
+
+eve_veg_ecto_1(1..17);
+
+unc41_veg_ecto_1(1..17);
+
+vegf3_veg_ecto_1(1..17);
+
+unkn_soxb1_veg_endo_2(1..17);
+
+wnt16_veg_endo_2(1..17);
+
+soxc_veg_endo_2(1..17);
+
+otx_veg_endo_2(1..17);
+
+blimp1_veg_endo_2(1..17);
+
+gatae_veg_endo_2(1..17);
+
+foxa_veg_endo_2(1..17);
+
+krl_veg_endo_2(1..17);
+
+myc_veg_endo_2(1..17);
+
+tgif_veg_endo_2(1..17);
+
+hh_veg_endo_2(1..17);
+
+dac_veg_endo_2(1..17);
+
+endo16_veg_endo_2(1..17);
+
+wnt16_veg_endo_2_protien(1..17);
+
+signalv2_protien_veg_endo_1(1..17);
+
+alx1_PMC(1..17);
+
+ubiq_ets1_PMC(1..17);
+
+ets1_PMC(1..17);
+
+tbr_PMC(1..17);
+
+nrl_PMC(1..17);
+
+hex_PMC(1..17);
+
+tgif_PMC(1..17);
+
+ubiq_tel_PMC(1..17);
+
+tel_PMC(1..17);
+
+dri_PMC(1..17);
+
+foxb_PMC(1..17);
+
+foxo_PMC(1..17);
+
+vegfr_PMC(1..17);
+
+l1_PMC(1..17);
+
+l1_vegfr_vegf3_protien_PMC(1..17);
+
+sm27_Skel(1..17);
+
+sm50_Skel(1..17);
+
+msp130_Skel(1..17);
+
+mspl_Skel(1..17);
+
+sm30_Skel(1..17);
+
+ficolin_Skel(1..17);
+
+cyp_Skel(1..17);
+
+
+
+not_oralNSM gcm_oralNSM negative;
+
+nodal_ecto_oralNSM smad_not_protien_oralNSM positive;
+
+smad_not_protien_oralNSM not_oralNSM positive;
+
+smad_oralNSM smad_not_protien_oralNSM positive;
+
+unkn_gatac_oralNSM gatac_oralNSM positive;
+
+gatac_oralNSM gatac_oralNSM negative;
+
+unkn_scl_oralNSM scl_oralNSM positive;
+
+unkn_runx_oralNSM runx_oralNSM positive;
+
+runx_oralNSM ese_oralNSM positive;
+
+runx_oralNSM prox_oralNSM positive;
+
+runx_oralNSM r11pmdelta_oralNSM positive;
+
+r11pmdelta_oralNSM r11pmdelta_nrl_protien_oralNSM positive;
+
+unkn_nrl_oralNSM nrl_oralNSM positive;
+
+blimp1_activate_oralNSM hesc_oralNSM negative;
+
+erg_oralNSM tbr_oralNSM negative;
+
+gcm_aboralNSM gatae_aboralNSM positive;
+
+gcm_aboralNSM gcm_aboralNSM positive;
+
+gatae_aboralNSM six12_aboralNSM positive;
+
+six12_aboralNSM gcm_aboralNSM positive;
+
+gcm_aboralNSM alx1_aboralNSM negative;
+
+unkn_runx_aboralNSM runx_aboralNSM positive;
+
+gatae_aboralNSM gatac_aboralNSM negative;
+
+gcm_aboralNSM z166_aboralNSM positive;
+
+gcm_aboralNSM prox_aboralNSM negative;
+
+gatae_aboralNSM otx_aboralNSM positive;
+
+otx_aboralNSM gatae_aboralNSM positive;
+
+blimp1_activate_aboralNSM hesc_aboralNSM negative;
+
+r11pmdelta_aboralNSM r11pmdelta_nrl_protien_aboralNSM positive;
+
+runx_aboralNSM r11pmdelta_aboralNSM positive;
+
+gatae_aboralNSM nrl_aboralNSM negative;
+
+gatae_aboralNSM gatae_fog_protien_aboralNSM positive;
+
+fog_aboralNSM gatae_fog_protien_aboralNSM positive;
+
+gatae_fog_protien_aboralNSM prox_aboralNSM negative;
+
+gcm_aboralNSM pks_aboralNSM_diff positive;
+
+gatae_aboralNSM pks_aboralNSM_diff positive;
+
+gcm_aboralNSM sutx_aboralNSM_diff positive;
+
+gatae_aboralNSM sutx_aboralNSM_diff positive;
+
+gcm_aboralNSM dpt_aboralNSM_diff positive;
+
+gatae_aboralNSM fvmo123_aboralNSM_diff positive;
+
+gcm_aboralNSM fvmo123_aboralNSM_diff positive;
+
+notch_smallMIC notch_suhn_protien_smallMIC positive;
+
+r11pmdelta_nrl_protien_aboralNSM suhn_smallMIC positive;
+
+r11pmdelta_nrl_protien_oralNSM suhn_smallMIC positive;
+
+suhn_smallMIC notch_suhn_protien_smallMIC positive;
+
+suh_smallMIC suh_notch_suhn_protien_smallMIC positive;
+
+notch_suhn_protien_smallMIC suh_notch_suhn_protien_smallMIC positive;
+
+suh_notch_suhn_protien_smallMIC foxy_smallMIC positive;
+
+unkn_soxe_smallMIC soxe_smallMIC positive;
+
+smo_smallMIC smo_ptc_hh_protien_smallMIC positive;
+
+ptc_smallMIC smo_ptc_hh_protien_smallMIC positive;
+
+smo_ptc_hh_protien_smallMIC foxf_smallMIC positive;
+
+foxf_smallMIC soxe_smallMIC positive;
+
+soxe_smallMIC foxf_smallMIC positive;
+
+wnt8_veg_endo_1 gsk3_veg_endo_1 negative;
+
+gsk3_x_protien_veg_endo_1 x_nbtcf_protien_veg_endo_1 positive;
+
+x_nbtcf_protien_veg_endo_1 eve_veg_endo_1 positive;
+
+x_nbtcf_protien_veg_endo_1 wnt8_veg_endo_1 positive;
+
+eve_veg_endo_1 hox1113b_veg_endo_1 positive;
+
+x_nbtcf_protien_veg_endo_1 hox1113b_veg_endo_1 positive;
+
+bra_veg_endo_1 otx_veg_endo_1 positive;
+
+hox1113b_veg_endo_1 bra_veg_endo_1 positive;
+
+otx_veg_endo_1 bra_veg_endo_1 positive;
+
+x_nbtcf_protien_veg_endo_1 bra_veg_endo_1 positive;
+
+eve_veg_endo_1 hnf1_veg_endo_1 positive;
+
+bra_veg_endo_1 hnf1_veg_endo_1 positive;
+
+nbtcf_protien_veg_ecto_1 eve_veg_ecto_1 positive;
+
+eve_veg_ecto_1 unc41_veg_ecto_1 positive;
+
+unkn_soxb1_veg_endo_2 soxb1_veg_endo_2 negative;
+
+soxb1_veg_endo_2 soxb1_veg_endo_2 negative;
+
+wnt16_veg_endo_2 wnt16_veg_endo_2_protien positive;
+
+wnt16_veg_endo_2_protien hox1113b_veg_endo_1 positive;
+
+hox1113b_veg_endo_2 hox1113b_veg_endo_2 negative;
+
+soxc_veg_endo_2 soxc_veg_endo_2 negative;
+
+otx_veg_endo_2 otx_veg_endo_2 positive;
+
+otx_veg_endo_2 foxa_veg_endo_2 positive;
+
+otx_veg_endo_2 gatae_veg_endo_2 positive;
+
+otx_veg_endo_2 blimp1_veg_endo_2 positive;
+
+otx_veg_endo_2 endo16_veg_endo_2 positive;
+
+blimp1_veg_endo_2 otx_veg_endo_2 positive;
+
+gatae_veg_endo_2 otx_veg_endo_2 positive;
+
+gatae_veg_endo_2 krl_veg_endo_2 negative;
+
+myc_veg_endo_2 hox1113b_veg_endo_2 negative;
+
+signalv2_veg_endo_1 signalv2_protien_veg_endo_1 positive;
+
+signalv2_protien_veg_endo_1 blimp1_veg_endo_2 positive;
+
+signalv2_protien_veg_endo_1 gatae_veg_endo_2 positive;
+
+foxa_veg_endo_2 foxa_veg_endo_2 negative;
+
+myc_veg_endo_2 myc_veg_endo_2 negative;
+
+blimp1_veg_endo_2 tgif_veg_endo_2 positive;
+
+myc_veg_endo_2 tgif_veg_endo_2 positive;
+
+foxa_veg_endo_2 hh_veg_endo_2 positive;
+
+hh_veg_endo_2 smo_ptc_hh_protien_smallMIC positive;
+
+alx1_PMC alx1_PMC negative;
+
+ets1_PMC alx1_PMC positive;
+
+tgif_PMC alx1_PMC positive;
+
+ets1_PMC tbr_PMC positive;
+
+tbr_PMC nrl_PMC positive;
+
+tgif_PMC nrl_PMC negative;
+
+ubiq_tel_PMC tel_PMC positive;
+
+tel_PMC tel_PMC negative;
+
+ets1_PMC hex_PMC positive;
+
+tgif_PMC hex_PMC positive;
+
+tgif_PMC tgif_PMC positive;
+
+ets1_PMC tgif_PMC positive;
+
+alx1_PMC dri_PMC positive;
+
+ets1_PMC dri_PMC positive;
+
+tbr_PMC foxb_PMC positive;
+
+alx1_PMC foxb_PMC positive;
+
+ets1_PMC foxb_PMC positive;
+
+dri_PMC foxb_PMC positive;
+
+tgif_PMC foxo_PMC positive;
+
+hex_PMC vegfr_PMC positive;
+
+ets1_PMC vegfr_PMC positive;
+
+dri_PMC vegfr_PMC positive;
+
+alx1_PMC vegfr_PMC positive;
+
+l1_PMC l1_vegfr_vegf3_protien_PMC positive;
+
+vegfr_PMC l1_vegfr_vegf3_protien_PMC positive;
+
+vegf3_veg_endo_1 l1_vegfr_vegf3_protien_PMC positive;
+
+vegf3_veg_ecto_1 l1_vegfr_vegf3_protien_PMC positive;
+
+l1_vegfr_vegf3_protien_PMC sm30_Skel positive optional;
+
+ets1_PMC cyp_Skel positive;
+
+ets1_PMC ficolin_Skel positive;
+
+ets1_PMC sm27_Skel positive;
+
+alx1_PMC sm27_Skel positive;
+
+hex_PMC sm27_Skel positive;
+
+tel_PMC sm50_Skel positive;
+
+ets1_PMC sm50_Skel positive;
+
+alx1_PMC sm50_Skel positive;
+
+l1_vegfr_vegf3_protien_PMC sm50_Skel positive optional;
+
+hex_PMC sm50_Skel positive;
+
+foxb_PMC msp130_Skel positive;
+
+alx1_PMC msp130_Skel positive;
+
+ets1_PMC msp130_Skel positive;
+
+hex_PMC msp130_Skel positive;
+
+tbr_PMC msp130_Skel positive;
+
+alx1_PMC mspl_Skel positive;
+
+ets1_PMC mspl_Skel positive;
+
+hex_PMC mspl_Skel positive;
+
+l1_vegfr_vegf3_protien_PMC mspl_Skel positive optional;
+
