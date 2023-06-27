@@ -22,7 +22,7 @@ This research project incorporates the following key features:
 
 We translate data on the system components of the endomesoderm GRN into RE:IN abstract boolean networks (ABNs). ABNs provide a simplified representation of system components, the nature of gene regulatory interactions, and the essential dynamics of the system.
 
-#### Experimental Constraints Synthesis
+### Experimental Constraints Synthesis
 
 Experimental data is translated from a single file detailing the expression details of system components to RE:IN experimental constraints. This transformation allows the efficient selection of constraints and experiments to be output, as well as the addition of flexible constraints.
 
