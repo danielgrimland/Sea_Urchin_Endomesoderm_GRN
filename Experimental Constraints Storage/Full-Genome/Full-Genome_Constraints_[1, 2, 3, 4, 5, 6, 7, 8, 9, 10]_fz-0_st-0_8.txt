@@ -1,0 +1,559 @@
+$Restriction_9_1 :=
+{
+
+   nucl_protien = 0 and
+   ecns_protien = 0 and
+   nbtcf_protien = 0 and
+   gsk3 = 0 and
+   x_protien = 0 and
+   blimp1 = 0 and
+   wnt8 = 0 and
+   ubiq_soxc = 0 and
+   soxc = 0 and
+   ubiq_es = 0 and
+   es = 0 and
+   pmar1 = 0 and
+   ubiq_hesc = 0 and
+   hesc = 0 and
+   gcm = 0 and
+   activin_b = 0 and
+   rhoa = 0 and
+   rhoa_soxb1_protien = 0 and
+   r11pmdelta_nrl_protien = 1 and
+   ubiq_hnf6 = 0 and
+   hnf6 = 1 and
+   alx1 = 1 and
+   ubiq_ets1 = 1 and
+   ets1 = 1 and
+   tbr = 1 and
+   nrl = 1 and
+   hex = 1 and
+   erg = 1 and
+   tgif = 1 and
+   ubiq_tel = 1 and
+   tel = 1 and
+   foxn23 = 1 and
+   r11pmdelta = 1 and
+   dri = 1 and
+   foxb = 0 and
+   foxo = 1 and
+   vegfr = 0 and
+   l1 = 1 and
+   l1_vegfr_vegf3_protien = 0 and
+   sm27 = 1 and
+   sm50 = 1 and
+   msp130 = 1 and
+   mspl = 1 and
+   sm30 = 0 and
+   ficolin = 1 and
+   cyp = 1 and
+   ubiq_gcadherin = 0 and
+   gcadherin = 0
+
+};
+
+$Restriction_9_2 :=
+{
+
+   nucl_protien = 0 and
+   ecns_protien = 0 and
+   nbtcf_protien = 0 and
+   gsk3 = 0 and
+   x_protien = 0 and
+   blimp1 = 0 and
+   wnt8 = 0 and
+   ubiq_soxc = 0 and
+   soxc = 0 and
+   ubiq_es = 0 and
+   es = 0 and
+   pmar1 = 0 and
+   ubiq_hesc = 0 and
+   hesc = 0 and
+   gcm = 0 and
+   activin_b = 0 and
+   rhoa = 0 and
+   rhoa_soxb1_protien = 0 and
+   r11pmdelta_nrl_protien = 1 and
+   ubiq_hnf6 = 0 and
+   hnf6 = 1 and
+   alx1 = 1 and
+   ubiq_ets1 = 1 and
+   ets1 = 1 and
+   tbr = 1 and
+   nrl = 1 and
+   hex = 1 and
+   erg = 1 and
+   tgif = 1 and
+   ubiq_tel = 1 and
+   tel = 1 and
+   foxn23 = 1 and
+   r11pmdelta = 1 and
+   dri = 1 and
+   foxb = 0 and
+   foxo = 1 and
+   vegfr = 0 and
+   l1 = 1 and
+   l1_vegfr_vegf3_protien = 0 and
+   sm27 = 1 and
+   sm50 = 1 and
+   msp130 = 1 and
+   mspl = 1 and
+   sm30 = 0 and
+   ficolin = 1 and
+   cyp = 1 and
+   ubiq_gcadherin = 0 and
+   gcadherin = 0
+
+};
+
+$Restriction_9_3 :=
+{
+
+   nucl_protien = 0 and
+   ecns_protien = 0 and
+   nbtcf_protien = 0 and
+   gsk3 = 0 and
+   x_protien = 0 and
+   blimp1 = 0 and
+   wnt8 = 0 and
+   ubiq_soxc = 0 and
+   soxc = 0 and
+   ubiq_es = 0 and
+   es = 0 and
+   pmar1 = 0 and
+   ubiq_hesc = 0 and
+   hesc = 0 and
+   gcm = 0 and
+   activin_b = 0 and
+   rhoa = 0 and
+   rhoa_soxb1_protien = 0 and
+   r11pmdelta_nrl_protien = 1 and
+   ubiq_hnf6 = 0 and
+   hnf6 = 1 and
+   alx1 = 1 and
+   ubiq_ets1 = 1 and
+   ets1 = 1 and
+   tbr = 1 and
+   nrl = 1 and
+   hex = 1 and
+   erg = 0 and
+   tgif = 1 and
+   ubiq_tel = 1 and
+   tel = 1 and
+   foxn23 = 1 and
+   r11pmdelta = 1 and
+   dri = 1 and
+   foxb = 0 and
+   foxo = 1 and
+   vegfr = 0 and
+   l1 = 1 and
+   l1_vegfr_vegf3_protien = 0 and
+   sm27 = 1 and
+   sm50 = 1 and
+   msp130 = 1 and
+   mspl = 1 and
+   sm30 = 0 and
+   ficolin = 1 and
+   cyp = 1 and
+   ubiq_gcadherin = 0 and
+   gcadherin = 0
+
+};
+
+$Restriction_9_4 :=
+{
+
+   nucl_protien = 0 and
+   ecns_protien = 0 and
+   nbtcf_protien = 0 and
+   gsk3 = 0 and
+   x_protien = 0 and
+   blimp1 = 0 and
+   wnt8 = 0 and
+   ubiq_soxc = 0 and
+   soxc = 0 and
+   ubiq_es = 0 and
+   es = 0 and
+   pmar1 = 0 and
+   ubiq_hesc = 0 and
+   hesc = 0 and
+   gcm = 0 and
+   activin_b = 0 and
+   rhoa = 0 and
+   rhoa_soxb1_protien = 0 and
+   r11pmdelta_nrl_protien = 0 and
+   ubiq_hnf6 = 0 and
+   hnf6 = 0 and
+   alx1 = 1 and
+   ubiq_ets1 = 1 and
+   ets1 = 1 and
+   tbr = 1 and
+   nrl = 1 and
+   hex = 1 and
+   erg = 0 and
+   tgif = 1 and
+   ubiq_tel = 1 and
+   tel = 1 and
+   foxn23 = 0 and
+   r11pmdelta = 0 and
+   dri = 1 and
+   foxb = 1 and
+   foxo = 1 and
+   vegfr = 1 and
+   l1 = 1 and
+   l1_vegfr_vegf3_protien = 1 and
+   sm27 = 1 and
+   sm50 = 1 and
+   msp130 = 1 and
+   mspl = 1 and
+   sm30 = 0 and
+   ficolin = 1 and
+   cyp = 1 and
+   ubiq_gcadherin = 0 and
+   gcadherin = 0
+
+};
+
+$Restriction_9_5 :=
+{
+
+   nucl_protien = 0 and
+   ecns_protien = 0 and
+   nbtcf_protien = 0 and
+   gsk3 = 0 and
+   x_protien = 0 and
+   blimp1 = 0 and
+   wnt8 = 0 and
+   ubiq_soxc = 0 and
+   soxc = 0 and
+   ubiq_es = 0 and
+   es = 0 and
+   pmar1 = 0 and
+   ubiq_hesc = 0 and
+   hesc = 0 and
+   gcm = 0 and
+   activin_b = 0 and
+   rhoa = 0 and
+   rhoa_soxb1_protien = 0 and
+   r11pmdelta_nrl_protien = 0 and
+   ubiq_hnf6 = 0 and
+   hnf6 = 0 and
+   alx1 = 1 and
+   ubiq_ets1 = 1 and
+   ets1 = 1 and
+   tbr = 1 and
+   nrl = 1 and
+   hex = 1 and
+   erg = 0 and
+   tgif = 1 and
+   ubiq_tel = 1 and
+   tel = 1 and
+   foxn23 = 0 and
+   r11pmdelta = 0 and
+   dri = 1 and
+   foxb = 1 and
+   foxo = 1 and
+   vegfr = 1 and
+   l1 = 1 and
+   l1_vegfr_vegf3_protien = 1 and
+   sm27 = 1 and
+   sm50 = 1 and
+   msp130 = 1 and
+   mspl = 1 and
+   sm30 = 1 and
+   ficolin = 1 and
+   cyp = 1 and
+   ubiq_gcadherin = 0 and
+   gcadherin = 0
+
+};
+
+$Restriction_9_6 :=
+{
+
+   nucl_protien = 0 and
+   ecns_protien = 0 and
+   nbtcf_protien = 0 and
+   gsk3 = 0 and
+   x_protien = 0 and
+   blimp1 = 0 and
+   wnt8 = 0 and
+   ubiq_soxc = 0 and
+   soxc = 0 and
+   ubiq_es = 0 and
+   es = 0 and
+   pmar1 = 0 and
+   ubiq_hesc = 0 and
+   hesc = 0 and
+   gcm = 0 and
+   activin_b = 0 and
+   rhoa = 0 and
+   rhoa_soxb1_protien = 0 and
+   r11pmdelta_nrl_protien = 0 and
+   ubiq_hnf6 = 0 and
+   hnf6 = 0 and
+   alx1 = 1 and
+   ubiq_ets1 = 1 and
+   ets1 = 1 and
+   tbr = 1 and
+   nrl = 1 and
+   hex = 1 and
+   erg = 0 and
+   tgif = 1 and
+   ubiq_tel = 1 and
+   tel = 1 and
+   foxn23 = 0 and
+   r11pmdelta = 0 and
+   dri = 1 and
+   foxb = 1 and
+   foxo = 1 and
+   vegfr = 1 and
+   l1 = 1 and
+   l1_vegfr_vegf3_protien = 1 and
+   sm27 = 1 and
+   sm50 = 1 and
+   msp130 = 1 and
+   mspl = 1 and
+   sm30 = 1 and
+   ficolin = 1 and
+   cyp = 1 and
+   ubiq_gcadherin = 0 and
+   gcadherin = 0
+
+};
+
+$Restriction_9_7 :=
+{
+
+   nucl_protien = 0 and
+   ecns_protien = 0 and
+   nbtcf_protien = 0 and
+   gsk3 = 0 and
+   x_protien = 0 and
+   blimp1 = 0 and
+   wnt8 = 0 and
+   ubiq_soxc = 0 and
+   soxc = 0 and
+   ubiq_es = 0 and
+   es = 0 and
+   pmar1 = 0 and
+   ubiq_hesc = 0 and
+   hesc = 0 and
+   gcm = 0 and
+   activin_b = 0 and
+   rhoa = 0 and
+   rhoa_soxb1_protien = 0 and
+   r11pmdelta_nrl_protien = 0 and
+   ubiq_hnf6 = 0 and
+   hnf6 = 0 and
+   alx1 = 1 and
+   ubiq_ets1 = 1 and
+   ets1 = 1 and
+   tbr = 1 and
+   nrl = 1 and
+   hex = 1 and
+   erg = 0 and
+   tgif = 1 and
+   ubiq_tel = 1 and
+   tel = 1 and
+   foxn23 = 0 and
+   r11pmdelta = 0 and
+   dri = 0 and
+   foxb = 1 and
+   foxo = 1 and
+   vegfr = 1 and
+   l1 = 1 and
+   l1_vegfr_vegf3_protien = 1 and
+   sm27 = 1 and
+   sm50 = 1 and
+   msp130 = 1 and
+   mspl = 1 and
+   sm30 = 1 and
+   ficolin = 1 and
+   cyp = 1 and
+   ubiq_gcadherin = 0 and
+   gcadherin = 0
+
+};
+
+$Restriction_9_8 :=
+{
+
+   nucl_protien = 0 and
+   ecns_protien = 0 and
+   nbtcf_protien = 0 and
+   gsk3 = 0 and
+   x_protien = 0 and
+   blimp1 = 0 and
+   wnt8 = 0 and
+   ubiq_soxc = 0 and
+   soxc = 0 and
+   ubiq_es = 0 and
+   es = 0 and
+   pmar1 = 0 and
+   ubiq_hesc = 0 and
+   hesc = 0 and
+   gcm = 0 and
+   activin_b = 0 and
+   rhoa = 0 and
+   rhoa_soxb1_protien = 0 and
+   r11pmdelta_nrl_protien = 0 and
+   ubiq_hnf6 = 0 and
+   hnf6 = 0 and
+   alx1 = 1 and
+   ubiq_ets1 = 1 and
+   ets1 = 1 and
+   tbr = 1 and
+   nrl = 1 and
+   hex = 1 and
+   erg = 0 and
+   tgif = 1 and
+   ubiq_tel = 1 and
+   tel = 1 and
+   foxn23 = 0 and
+   r11pmdelta = 0 and
+   dri = 0 and
+   foxb = 1 and
+   foxo = 1 and
+   vegfr = 1 and
+   l1 = 1 and
+   l1_vegfr_vegf3_protien = 1 and
+   sm27 = 1 and
+   sm50 = 1 and
+   msp130 = 1 and
+   mspl = 1 and
+   sm30 = 1 and
+   ficolin = 1 and
+   cyp = 1 and
+   ubiq_gcadherin = 0 and
+   gcadherin = 0
+
+};
+
+$Restriction_9_9 :=
+{
+
+   nucl_protien = 0 and
+   ecns_protien = 0 and
+   nbtcf_protien = 0 and
+   gsk3 = 0 and
+   x_protien = 0 and
+   blimp1 = 0 and
+   wnt8 = 0 and
+   ubiq_soxc = 0 and
+   soxc = 0 and
+   ubiq_es = 0 and
+   es = 0 and
+   pmar1 = 0 and
+   ubiq_hesc = 0 and
+   hesc = 0 and
+   gcm = 0 and
+   activin_b = 0 and
+   rhoa = 0 and
+   rhoa_soxb1_protien = 0 and
+   r11pmdelta_nrl_protien = 0 and
+   ubiq_hnf6 = 0 and
+   hnf6 = 0 and
+   alx1 = 1 and
+   ubiq_ets1 = 1 and
+   ets1 = 1 and
+   tbr = 1 and
+   nrl = 1 and
+   hex = 1 and
+   erg = 0 and
+   tgif = 1 and
+   ubiq_tel = 1 and
+   tel = 1 and
+   foxn23 = 0 and
+   r11pmdelta = 0 and
+   dri = 0 and
+   foxb = 1 and
+   foxo = 1 and
+   vegfr = 1 and
+   l1 = 1 and
+   l1_vegfr_vegf3_protien = 1 and
+   sm27 = 1 and
+   sm50 = 1 and
+   msp130 = 1 and
+   mspl = 1 and
+   sm30 = 1 and
+   ficolin = 1 and
+   cyp = 1 and
+   ubiq_gcadherin = 0 and
+   gcadherin = 0
+
+};
+
+$Restriction_9_10 :=
+{
+
+   nucl_protien = 0 and
+   ecns_protien = 0 and
+   nbtcf_protien = 0 and
+   gsk3 = 0 and
+   x_protien = 0 and
+   blimp1 = 0 and
+   wnt8 = 0 and
+   ubiq_soxc = 0 and
+   soxc = 0 and
+   ubiq_es = 0 and
+   es = 0 and
+   pmar1 = 0 and
+   ubiq_hesc = 0 and
+   hesc = 0 and
+   gcm = 0 and
+   activin_b = 0 and
+   rhoa = 0 and
+   rhoa_soxb1_protien = 0 and
+   r11pmdelta_nrl_protien = 0 and
+   ubiq_hnf6 = 0 and
+   hnf6 = 0 and
+   alx1 = 1 and
+   ubiq_ets1 = 1 and
+   ets1 = 1 and
+   tbr = 1 and
+   nrl = 1 and
+   hex = 1 and
+   erg = 0 and
+   tgif = 0 and
+   ubiq_tel = 0 and
+   tel = 0 and
+   foxn23 = 0 and
+   r11pmdelta = 0 and
+   dri = 0 and
+   foxb = 1 and
+   foxo = 1 and
+   vegfr = 1 and
+   l1 = 1 and
+   l1_vegfr_vegf3_protien = 1 and
+   sm27 = 1 and
+   sm50 = 1 and
+   msp130 = 1 and
+   mspl = 1 and
+   sm30 = 1 and
+   ficolin = 1 and
+   cyp = 1 and
+   ubiq_gcadherin = 0 and
+   gcadherin = 0
+
+};
+
+(#Experiment_9[0] |= $Restriction_9_1); 
+
+(#Experiment_9[1] |= $Restriction_9_2); 
+
+(#Experiment_9[2] |= $Restriction_9_3); 
+
+(#Experiment_9[3] |= $Restriction_9_4); 
+
+(#Experiment_9[4] |= $Restriction_9_5); 
+
+(#Experiment_9[5] |= $Restriction_9_6); 
+
+(#Experiment_9[6] |= $Restriction_9_7); 
+
+(#Experiment_9[7] |= $Restriction_9_8); 
+
+(#Experiment_9[8] |= $Restriction_9_9); 
+
+(#Experiment_9[9] |= $Restriction_9_10);

@@ -1,0 +1,324 @@
+$Restriction_6_1 :=
+{
+
+   frizzled = 1 and
+   gsk3 = 1 and
+   wnt8 = 1 and
+   eve = 1 and
+   hox1113b = 0 and
+   otx = 1 and
+   hnf1 = 0 and
+   signalv2 = 0 and
+   vegf3 = 1 and
+   gsk3_x_protien = 1 and
+   gsk3_x_nbtcf_protien = 1 and
+   bra = 0 and
+   nbtcf_protien = 1 and
+   unc41 = 1
+
+}
+;
+
+$Restriction_6_2 :=
+{
+
+   frizzled = 1 and
+   gsk3 = 1 and
+   wnt8 = 1 and
+   eve = 1 and
+   hox1113b = 0 and
+   otx = 1 and
+   hnf1 = 0 and
+   signalv2 = 0 and
+   vegf3 = 1 and
+   gsk3_x_protien = 1 and
+   gsk3_x_nbtcf_protien = 1 and
+   bra = 0 and
+   nbtcf_protien = 1 and
+   unc41 = 1
+
+}
+;
+
+$Restriction_6_3 :=
+{
+
+   frizzled = 1 and
+   gsk3 = 1 and
+   wnt8 = 1 and
+   eve = 1 and
+   hox1113b = 0 and
+   otx = 1 and
+   hnf1 = 0 and
+   signalv2 = 0 and
+   vegf3 = 1 and
+   gsk3_x_protien = 1 and
+   gsk3_x_nbtcf_protien = 1 and
+   bra = 0 and
+   nbtcf_protien = 1 and
+   unc41 = 1
+
+}
+;
+
+$Restriction_6_4 :=
+{
+
+   frizzled = 1 and
+   gsk3 = 1 and
+   wnt8 = 1 and
+   eve = 1 and
+   hox1113b = 1 and
+   otx = 1 and
+   hnf1 = 1 and
+   signalv2 = 1 and
+   vegf3 = 1 and
+   gsk3_x_protien = 1 and
+   gsk3_x_nbtcf_protien = 1 and
+   bra = 1 and
+   nbtcf_protien = 1 and
+   unc41 = 1
+
+}
+;
+
+$Restriction_6_5 :=
+{
+
+   frizzled = 1 and
+   gsk3 = 1 and
+   wnt8 = 1 and
+   eve = 1 and
+   hox1113b = 1 and
+   otx = 1 and
+   hnf1 = 1 and
+   signalv2 = 1 and
+   vegf3 = 1 and
+   gsk3_x_protien = 1 and
+   gsk3_x_nbtcf_protien = 1 and
+   bra = 1 and
+   nbtcf_protien = 1 and
+   unc41 = 1
+
+}
+;
+
+$Restriction_6_6 :=
+{
+
+   frizzled = 1 and
+   gsk3 = 1 and
+   wnt8 = 1 and
+   eve = 1 and
+   hox1113b = 1 and
+   otx = 1 and
+   hnf1 = 1 and
+   signalv2 = 1 and
+   vegf3 = 1 and
+   gsk3_x_protien = 1 and
+   gsk3_x_nbtcf_protien = 1 and
+   bra = 1 and
+   nbtcf_protien = 1 and
+   unc41 = 1
+
+}
+;
+
+$Restriction_6_7 :=
+{
+
+   frizzled = 1 and
+   gsk3 = 1 and
+   wnt8 = 1 and
+   eve = 1 and
+   hox1113b = 1 and
+   otx = 1 and
+   hnf1 = 1 and
+   signalv2 = 1 and
+   vegf3 = 1 and
+   gsk3_x_protien = 1 and
+   gsk3_x_nbtcf_protien = 1 and
+   bra = 1 and
+   nbtcf_protien = 1 and
+   unc41 = 1
+
+}
+;
+
+$Restriction_6_8 :=
+{
+
+   frizzled = 1 and
+   gsk3 = 1 and
+   wnt8 = 1 and
+   eve = 1 and
+   hox1113b = 1 and
+   otx = 1 and
+   hnf1 = 1 and
+   signalv2 = 1 and
+   vegf3 = 1 and
+   gsk3_x_protien = 1 and
+   gsk3_x_nbtcf_protien = 1 and
+   bra = 1 and
+   nbtcf_protien = 1 and
+   unc41 = 1
+
+}
+;
+
+$Restriction_6_9 :=
+{
+
+   frizzled = 1 and
+   gsk3 = 1 and
+   wnt8 = 1 and
+   eve = 1 and
+   hox1113b = 1 and
+   otx = 1 and
+   hnf1 = 1 and
+   signalv2 = 1 and
+   vegf3 = 1 and
+   gsk3_x_protien = 1 and
+   gsk3_x_nbtcf_protien = 1 and
+   bra = 1 and
+   nbtcf_protien = 1 and
+   unc41 = 1
+
+}
+;
+
+$Restriction_6_10 :=
+{
+
+   frizzled = 1 and
+   gsk3 = 1 and
+   wnt8 = 1 and
+   eve = 1 and
+   hox1113b = 1 and
+   otx = 1 and
+   hnf1 = 1 and
+   signalv2 = 1 and
+   vegf3 = 1 and
+   gsk3_x_protien = 1 and
+   gsk3_x_nbtcf_protien = 1 and
+   bra = 1 and
+   nbtcf_protien = 1 and
+   unc41 = 1
+
+}
+;
+
+(#Experiment_6[0] |= $Restriction_6_1) or
+ (#Experiment_6[1] |= $Restriction_6_1) or
+ (#Experiment_6[2] |= $Restriction_6_1) or
+ (#Experiment_6[3] |= $Restriction_6_1) or
+ (#Experiment_6[4] |= $Restriction_6_1) or
+ (#Experiment_6[5] |= $Restriction_6_1); 
+
+(#Experiment_6[6] |= $Restriction_6_2) or
+ (#Experiment_6[7] |= $Restriction_6_2) or
+ (#Experiment_6[8] |= $Restriction_6_2) or
+ (#Experiment_6[9] |= $Restriction_6_2) or
+ (#Experiment_6[10] |= $Restriction_6_2) or
+ (#Experiment_6[11] |= $Restriction_6_2) or
+ (#Experiment_6[12] |= $Restriction_6_2) or
+ (#Experiment_6[13] |= $Restriction_6_2) or
+ (#Experiment_6[14] |= $Restriction_6_2) or
+ (#Experiment_6[15] |= $Restriction_6_2) or
+ (#Experiment_6[16] |= $Restriction_6_2); 
+
+(#Experiment_6[17] |= $Restriction_6_3) or
+ (#Experiment_6[18] |= $Restriction_6_3) or
+ (#Experiment_6[19] |= $Restriction_6_3) or
+ (#Experiment_6[20] |= $Restriction_6_3) or
+ (#Experiment_6[21] |= $Restriction_6_3) or
+ (#Experiment_6[22] |= $Restriction_6_3) or
+ (#Experiment_6[23] |= $Restriction_6_3) or
+ (#Experiment_6[24] |= $Restriction_6_3) or
+ (#Experiment_6[25] |= $Restriction_6_3) or
+ (#Experiment_6[26] |= $Restriction_6_3) or
+ (#Experiment_6[27] |= $Restriction_6_3); 
+
+(#Experiment_6[28] |= $Restriction_6_4) or
+ (#Experiment_6[29] |= $Restriction_6_4) or
+ (#Experiment_6[30] |= $Restriction_6_4) or
+ (#Experiment_6[31] |= $Restriction_6_4) or
+ (#Experiment_6[32] |= $Restriction_6_4) or
+ (#Experiment_6[33] |= $Restriction_6_4) or
+ (#Experiment_6[34] |= $Restriction_6_4) or
+ (#Experiment_6[35] |= $Restriction_6_4) or
+ (#Experiment_6[36] |= $Restriction_6_4) or
+ (#Experiment_6[37] |= $Restriction_6_4) or
+ (#Experiment_6[38] |= $Restriction_6_4); 
+
+(#Experiment_6[39] |= $Restriction_6_5) or
+ (#Experiment_6[40] |= $Restriction_6_5) or
+ (#Experiment_6[41] |= $Restriction_6_5) or
+ (#Experiment_6[42] |= $Restriction_6_5) or
+ (#Experiment_6[43] |= $Restriction_6_5) or
+ (#Experiment_6[44] |= $Restriction_6_5) or
+ (#Experiment_6[45] |= $Restriction_6_5) or
+ (#Experiment_6[46] |= $Restriction_6_5) or
+ (#Experiment_6[47] |= $Restriction_6_5) or
+ (#Experiment_6[48] |= $Restriction_6_5) or
+ (#Experiment_6[49] |= $Restriction_6_5); 
+
+(#Experiment_6[50] |= $Restriction_6_6) or
+ (#Experiment_6[51] |= $Restriction_6_6) or
+ (#Experiment_6[52] |= $Restriction_6_6) or
+ (#Experiment_6[53] |= $Restriction_6_6) or
+ (#Experiment_6[54] |= $Restriction_6_6) or
+ (#Experiment_6[55] |= $Restriction_6_6) or
+ (#Experiment_6[56] |= $Restriction_6_6) or
+ (#Experiment_6[57] |= $Restriction_6_6) or
+ (#Experiment_6[58] |= $Restriction_6_6) or
+ (#Experiment_6[59] |= $Restriction_6_6) or
+ (#Experiment_6[60] |= $Restriction_6_6); 
+
+(#Experiment_6[61] |= $Restriction_6_7) or
+ (#Experiment_6[62] |= $Restriction_6_7) or
+ (#Experiment_6[63] |= $Restriction_6_7) or
+ (#Experiment_6[64] |= $Restriction_6_7) or
+ (#Experiment_6[65] |= $Restriction_6_7) or
+ (#Experiment_6[66] |= $Restriction_6_7) or
+ (#Experiment_6[67] |= $Restriction_6_7) or
+ (#Experiment_6[68] |= $Restriction_6_7) or
+ (#Experiment_6[69] |= $Restriction_6_7) or
+ (#Experiment_6[70] |= $Restriction_6_7) or
+ (#Experiment_6[71] |= $Restriction_6_7); 
+
+(#Experiment_6[72] |= $Restriction_6_8) or
+ (#Experiment_6[73] |= $Restriction_6_8) or
+ (#Experiment_6[74] |= $Restriction_6_8) or
+ (#Experiment_6[75] |= $Restriction_6_8) or
+ (#Experiment_6[76] |= $Restriction_6_8) or
+ (#Experiment_6[77] |= $Restriction_6_8) or
+ (#Experiment_6[78] |= $Restriction_6_8) or
+ (#Experiment_6[79] |= $Restriction_6_8) or
+ (#Experiment_6[80] |= $Restriction_6_8) or
+ (#Experiment_6[81] |= $Restriction_6_8) or
+ (#Experiment_6[82] |= $Restriction_6_8); 
+
+(#Experiment_6[83] |= $Restriction_6_9) or
+ (#Experiment_6[84] |= $Restriction_6_9) or
+ (#Experiment_6[85] |= $Restriction_6_9) or
+ (#Experiment_6[86] |= $Restriction_6_9) or
+ (#Experiment_6[87] |= $Restriction_6_9) or
+ (#Experiment_6[88] |= $Restriction_6_9) or
+ (#Experiment_6[89] |= $Restriction_6_9) or
+ (#Experiment_6[90] |= $Restriction_6_9) or
+ (#Experiment_6[91] |= $Restriction_6_9) or
+ (#Experiment_6[92] |= $Restriction_6_9) or
+ (#Experiment_6[93] |= $Restriction_6_9); 
+
+(#Experiment_6[94] |= $Restriction_6_10) or
+ (#Experiment_6[95] |= $Restriction_6_10) or
+ (#Experiment_6[96] |= $Restriction_6_10) or
+ (#Experiment_6[97] |= $Restriction_6_10) or
+ (#Experiment_6[98] |= $Restriction_6_10) or
+ (#Experiment_6[99] |= $Restriction_6_10) or
+ (#Experiment_6[100] |= $Restriction_6_10) or
+ (#Experiment_6[101] |= $Restriction_6_10) or
+ (#Experiment_6[102] |= $Restriction_6_10) or
+ (#Experiment_6[103] |= $Restriction_6_10) or
+ (#Experiment_6[104] |= $Restriction_6_10);

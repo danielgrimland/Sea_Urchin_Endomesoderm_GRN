@@ -1,0 +1,205 @@
+$Restriction_8_1 :=
+{
+
+   g_cadherin = 0 and
+   otx = 0 and
+   cb = 0 and
+   wnt6 = 0 and
+   soxb1 = 0
+
+};
+
+$Restriction_8_2 :=
+{
+
+   g_cadherin = 0 and
+   otx = 0 and
+   cb = 0 and
+   wnt6 = 0 and
+   soxb1 = 0
+
+};
+
+$Restriction_8_3 :=
+{
+
+   g_cadherin = 0 and
+   otx = 0 and
+   cb = 0 and
+   wnt6 = 0 and
+   soxb1 = 0
+
+};
+
+$Restriction_8_4 :=
+{
+
+   g_cadherin = 0 and
+   otx = 0 and
+   cb = 0 and
+   wnt6 = 0 and
+   soxb1 = 0
+
+};
+
+$Restriction_8_5 :=
+{
+
+   g_cadherin = 0 and
+   otx = 0 and
+   cb = 0 and
+   wnt6 = 0 and
+   soxb1 = 0
+
+};
+
+$Restriction_8_6 :=
+{
+
+   g_cadherin = 0 and
+   otx = 0 and
+   cb = 0 and
+   wnt6 = 0 and
+   soxb1 = 0
+
+};
+
+$Restriction_8_7 :=
+{
+
+   g_cadherin = 0 and
+   otx = 0 and
+   cb = 0 and
+   wnt6 = 0 and
+   soxb1 = 0
+
+};
+
+$Restriction_8_8 :=
+{
+
+   g_cadherin = 0 and
+   otx = 0 and
+   cb = 0 and
+   wnt6 = 0 and
+   soxb1 = 0
+
+};
+
+$Restriction_8_9 :=
+{
+
+   g_cadherin = 0 and
+   otx = 0 and
+   cb = 0 and
+   wnt6 = 0 and
+   soxb1 = 0
+
+};
+
+$Restriction_8_10 :=
+{
+
+   g_cadherin = 0 and
+   otx = 0 and
+   cb = 0 and
+   wnt6 = 0 and
+   soxb1 = 0
+
+};
+
+(#Experiment_8[0] |= $Restriction_8_1) or
+ (#Experiment_8[1] |= $Restriction_8_1) or
+ (#Experiment_8[2] |= $Restriction_8_1) or
+ (#Experiment_8[3] |= $Restriction_8_1) or
+ (#Experiment_8[4] |= $Restriction_8_1); 
+
+(#Experiment_8[7] |= $Restriction_8_2) or
+ (#Experiment_8[8] |= $Restriction_8_2) or
+ (#Experiment_8[9] |= $Restriction_8_2) or
+ (#Experiment_8[10] |= $Restriction_8_2) or
+ (#Experiment_8[11] |= $Restriction_8_2) or
+ (#Experiment_8[12] |= $Restriction_8_2) or
+ (#Experiment_8[13] |= $Restriction_8_2) or
+ (#Experiment_8[14] |= $Restriction_8_2) or
+ (#Experiment_8[15] |= $Restriction_8_2); 
+
+(#Experiment_8[18] |= $Restriction_8_3) or
+ (#Experiment_8[19] |= $Restriction_8_3) or
+ (#Experiment_8[20] |= $Restriction_8_3) or
+ (#Experiment_8[21] |= $Restriction_8_3) or
+ (#Experiment_8[22] |= $Restriction_8_3) or
+ (#Experiment_8[23] |= $Restriction_8_3) or
+ (#Experiment_8[24] |= $Restriction_8_3) or
+ (#Experiment_8[25] |= $Restriction_8_3) or
+ (#Experiment_8[26] |= $Restriction_8_3); 
+
+(#Experiment_8[29] |= $Restriction_8_4) or
+ (#Experiment_8[30] |= $Restriction_8_4) or
+ (#Experiment_8[31] |= $Restriction_8_4) or
+ (#Experiment_8[32] |= $Restriction_8_4) or
+ (#Experiment_8[33] |= $Restriction_8_4) or
+ (#Experiment_8[34] |= $Restriction_8_4) or
+ (#Experiment_8[35] |= $Restriction_8_4) or
+ (#Experiment_8[36] |= $Restriction_8_4) or
+ (#Experiment_8[37] |= $Restriction_8_4); 
+
+(#Experiment_8[40] |= $Restriction_8_5) or
+ (#Experiment_8[41] |= $Restriction_8_5) or
+ (#Experiment_8[42] |= $Restriction_8_5) or
+ (#Experiment_8[43] |= $Restriction_8_5) or
+ (#Experiment_8[44] |= $Restriction_8_5) or
+ (#Experiment_8[45] |= $Restriction_8_5) or
+ (#Experiment_8[46] |= $Restriction_8_5) or
+ (#Experiment_8[47] |= $Restriction_8_5) or
+ (#Experiment_8[48] |= $Restriction_8_5); 
+
+(#Experiment_8[51] |= $Restriction_8_6) or
+ (#Experiment_8[52] |= $Restriction_8_6) or
+ (#Experiment_8[53] |= $Restriction_8_6) or
+ (#Experiment_8[54] |= $Restriction_8_6) or
+ (#Experiment_8[55] |= $Restriction_8_6) or
+ (#Experiment_8[56] |= $Restriction_8_6) or
+ (#Experiment_8[57] |= $Restriction_8_6) or
+ (#Experiment_8[58] |= $Restriction_8_6) or
+ (#Experiment_8[59] |= $Restriction_8_6); 
+
+(#Experiment_8[62] |= $Restriction_8_7) or
+ (#Experiment_8[63] |= $Restriction_8_7) or
+ (#Experiment_8[64] |= $Restriction_8_7) or
+ (#Experiment_8[65] |= $Restriction_8_7) or
+ (#Experiment_8[66] |= $Restriction_8_7) or
+ (#Experiment_8[67] |= $Restriction_8_7) or
+ (#Experiment_8[68] |= $Restriction_8_7) or
+ (#Experiment_8[69] |= $Restriction_8_7) or
+ (#Experiment_8[70] |= $Restriction_8_7); 
+
+(#Experiment_8[73] |= $Restriction_8_8) or
+ (#Experiment_8[74] |= $Restriction_8_8) or
+ (#Experiment_8[75] |= $Restriction_8_8) or
+ (#Experiment_8[76] |= $Restriction_8_8) or
+ (#Experiment_8[77] |= $Restriction_8_8) or
+ (#Experiment_8[78] |= $Restriction_8_8) or
+ (#Experiment_8[79] |= $Restriction_8_8) or
+ (#Experiment_8[80] |= $Restriction_8_8) or
+ (#Experiment_8[81] |= $Restriction_8_8); 
+
+(#Experiment_8[84] |= $Restriction_8_9) or
+ (#Experiment_8[85] |= $Restriction_8_9) or
+ (#Experiment_8[86] |= $Restriction_8_9) or
+ (#Experiment_8[87] |= $Restriction_8_9) or
+ (#Experiment_8[88] |= $Restriction_8_9) or
+ (#Experiment_8[89] |= $Restriction_8_9) or
+ (#Experiment_8[90] |= $Restriction_8_9) or
+ (#Experiment_8[91] |= $Restriction_8_9) or
+ (#Experiment_8[92] |= $Restriction_8_9); 
+
+(#Experiment_8[95] |= $Restriction_8_10) or
+ (#Experiment_8[96] |= $Restriction_8_10) or
+ (#Experiment_8[97] |= $Restriction_8_10) or
+ (#Experiment_8[98] |= $Restriction_8_10) or
+ (#Experiment_8[99] |= $Restriction_8_10) or
+ (#Experiment_8[100] |= $Restriction_8_10) or
+ (#Experiment_8[101] |= $Restriction_8_10) or
+ (#Experiment_8[102] |= $Restriction_8_10) or
+ (#Experiment_8[103] |= $Restriction_8_10);

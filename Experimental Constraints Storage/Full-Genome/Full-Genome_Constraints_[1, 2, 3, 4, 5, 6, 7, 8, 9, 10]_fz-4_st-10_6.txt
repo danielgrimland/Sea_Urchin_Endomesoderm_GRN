@@ -1,0 +1,375 @@
+$Restriction_7_1 :=
+{
+
+   unkn_soxb1 = 1 and
+   soxb1 = 0 and
+   wnt16 = 1 and
+   nbtcf_protien = 1 and
+   eve = 0 and
+   soxc = 0 and
+   otx = 1 and
+   blimp1 = 1 and
+   hox1113b = 1 and
+   gatae = 1 and
+   foxa = 1 and
+   bra = 1 and
+   gcm = 0 and
+   krl = 1 and
+   myc = 1 and
+   brn124 = 0 and
+   tgif = 0 and
+   hh = 0 and
+   dac = 1 and
+   endo16 = 1 and
+   wnt16_hox1113b_protien = 1 and
+   signalv2_protien = 0
+
+};
+
+$Restriction_7_2 :=
+{
+
+   unkn_soxb1 = 1 and
+   soxb1 = 0 and
+   wnt16 = 1 and
+   nbtcf_protien = 1 and
+   eve = 0 and
+   soxc = 0 and
+   otx = 1 and
+   blimp1 = 1 and
+   hox1113b = 1 and
+   gatae = 1 and
+   foxa = 1 and
+   bra = 1 and
+   gcm = 0 and
+   krl = 1 and
+   myc = 1 and
+   brn124 = 0 and
+   tgif = 0 and
+   hh = 0 and
+   dac = 1 and
+   endo16 = 1 and
+   wnt16_hox1113b_protien = 1 and
+   signalv2_protien = 0
+
+};
+
+$Restriction_7_3 :=
+{
+
+   unkn_soxb1 = 1 and
+   soxb1 = 0 and
+   wnt16 = 1 and
+   nbtcf_protien = 1 and
+   eve = 0 and
+   soxc = 0 and
+   otx = 1 and
+   blimp1 = 1 and
+   hox1113b = 1 and
+   gatae = 1 and
+   foxa = 1 and
+   bra = 1 and
+   gcm = 0 and
+   krl = 1 and
+   myc = 1 and
+   brn124 = 0 and
+   tgif = 0 and
+   hh = 0 and
+   dac = 1 and
+   endo16 = 1 and
+   wnt16_hox1113b_protien = 1 and
+   signalv2_protien = 0
+
+};
+
+$Restriction_7_4 :=
+{
+
+   unkn_soxb1 = 1 and
+   soxb1 = 0 and
+   wnt16 = 1 and
+   nbtcf_protien = 0 and
+   eve = 0 and
+   soxc = 1 and
+   otx = 1 and
+   blimp1 = 1 and
+   hox1113b = 0 and
+   gatae = 1 and
+   foxa = 1 and
+   bra = 0 and
+   gcm = 0 and
+   krl = 1 and
+   myc = 1 and
+   brn124 = 0 and
+   tgif = 1 and
+   hh = 1 and
+   dac = 1 and
+   endo16 = 1 and
+   wnt16_hox1113b_protien = 1 and
+   signalv2_protien = 1
+
+};
+
+$Restriction_7_5 :=
+{
+
+   unkn_soxb1 = 1 and
+   soxb1 = 0 and
+   wnt16 = 1 and
+   nbtcf_protien = 0 and
+   eve = 0 and
+   soxc = 1 and
+   otx = 1 and
+   blimp1 = 1 and
+   hox1113b = 0 and
+   gatae = 1 and
+   foxa = 1 and
+   bra = 0 and
+   gcm = 0 and
+   krl = 1 and
+   myc = 1 and
+   brn124 = 0 and
+   tgif = 1 and
+   hh = 1 and
+   dac = 1 and
+   endo16 = 1 and
+   wnt16_hox1113b_protien = 1 and
+   signalv2_protien = 1
+
+};
+
+$Restriction_7_6 :=
+{
+
+   unkn_soxb1 = 1 and
+   soxb1 = 0 and
+   wnt16 = 1 and
+   nbtcf_protien = 0 and
+   eve = 0 and
+   soxc = 1 and
+   otx = 1 and
+   blimp1 = 1 and
+   hox1113b = 0 and
+   gatae = 1 and
+   foxa = 1 and
+   bra = 0 and
+   gcm = 0 and
+   krl = 1 and
+   myc = 1 and
+   brn124 = 0 and
+   tgif = 1 and
+   hh = 1 and
+   dac = 1 and
+   endo16 = 1 and
+   wnt16_hox1113b_protien = 1 and
+   signalv2_protien = 1
+
+};
+
+$Restriction_7_7 :=
+{
+
+   unkn_soxb1 = 1 and
+   soxb1 = 0 and
+   wnt16 = 1 and
+   nbtcf_protien = 0 and
+   eve = 0 and
+   soxc = 1 and
+   otx = 1 and
+   blimp1 = 1 and
+   hox1113b = 0 and
+   gatae = 1 and
+   foxa = 1 and
+   bra = 0 and
+   gcm = 0 and
+   krl = 1 and
+   myc = 1 and
+   brn124 = 0 and
+   tgif = 1 and
+   hh = 1 and
+   dac = 1 and
+   endo16 = 1 and
+   wnt16_hox1113b_protien = 1 and
+   signalv2_protien = 1
+
+};
+
+$Restriction_7_8 :=
+{
+
+   unkn_soxb1 = 1 and
+   soxb1 = 0 and
+   wnt16 = 1 and
+   nbtcf_protien = 0 and
+   eve = 0 and
+   soxc = 1 and
+   otx = 1 and
+   blimp1 = 1 and
+   hox1113b = 0 and
+   gatae = 1 and
+   foxa = 1 and
+   bra = 0 and
+   gcm = 0 and
+   krl = 1 and
+   myc = 1 and
+   brn124 = 0 and
+   tgif = 1 and
+   hh = 1 and
+   dac = 1 and
+   endo16 = 1 and
+   wnt16_hox1113b_protien = 1 and
+   signalv2_protien = 1
+
+};
+
+$Restriction_7_9 :=
+{
+
+   unkn_soxb1 = 1 and
+   soxb1 = 0 and
+   wnt16 = 1 and
+   nbtcf_protien = 0 and
+   eve = 0 and
+   soxc = 1 and
+   otx = 1 and
+   blimp1 = 1 and
+   hox1113b = 0 and
+   gatae = 1 and
+   foxa = 1 and
+   bra = 0 and
+   gcm = 0 and
+   krl = 1 and
+   myc = 1 and
+   brn124 = 0 and
+   tgif = 1 and
+   hh = 1 and
+   dac = 1 and
+   endo16 = 1 and
+   wnt16_hox1113b_protien = 1 and
+   signalv2_protien = 1
+
+};
+
+$Restriction_7_10 :=
+{
+
+   unkn_soxb1 = 1 and
+   soxb1 = 0 and
+   wnt16 = 1 and
+   nbtcf_protien = 0 and
+   eve = 0 and
+   soxc = 1 and
+   otx = 1 and
+   blimp1 = 1 and
+   hox1113b = 0 and
+   gatae = 1 and
+   foxa = 1 and
+   bra = 0 and
+   gcm = 0 and
+   krl = 1 and
+   myc = 1 and
+   brn124 = 1 and
+   tgif = 1 and
+   hh = 1 and
+   dac = 1 and
+   endo16 = 1 and
+   wnt16_hox1113b_protien = 1 and
+   signalv2_protien = 1
+
+};
+
+(#Experiment_7[0] |= $Restriction_7_1) or
+ (#Experiment_7[1] |= $Restriction_7_1) or
+ (#Experiment_7[2] |= $Restriction_7_1) or
+ (#Experiment_7[3] |= $Restriction_7_1) or
+ (#Experiment_7[4] |= $Restriction_7_1); 
+
+(#Experiment_7[7] |= $Restriction_7_2) or
+ (#Experiment_7[8] |= $Restriction_7_2) or
+ (#Experiment_7[9] |= $Restriction_7_2) or
+ (#Experiment_7[10] |= $Restriction_7_2) or
+ (#Experiment_7[11] |= $Restriction_7_2) or
+ (#Experiment_7[12] |= $Restriction_7_2) or
+ (#Experiment_7[13] |= $Restriction_7_2) or
+ (#Experiment_7[14] |= $Restriction_7_2) or
+ (#Experiment_7[15] |= $Restriction_7_2); 
+
+(#Experiment_7[18] |= $Restriction_7_3) or
+ (#Experiment_7[19] |= $Restriction_7_3) or
+ (#Experiment_7[20] |= $Restriction_7_3) or
+ (#Experiment_7[21] |= $Restriction_7_3) or
+ (#Experiment_7[22] |= $Restriction_7_3) or
+ (#Experiment_7[23] |= $Restriction_7_3) or
+ (#Experiment_7[24] |= $Restriction_7_3) or
+ (#Experiment_7[25] |= $Restriction_7_3) or
+ (#Experiment_7[26] |= $Restriction_7_3); 
+
+(#Experiment_7[29] |= $Restriction_7_4) or
+ (#Experiment_7[30] |= $Restriction_7_4) or
+ (#Experiment_7[31] |= $Restriction_7_4) or
+ (#Experiment_7[32] |= $Restriction_7_4) or
+ (#Experiment_7[33] |= $Restriction_7_4) or
+ (#Experiment_7[34] |= $Restriction_7_4) or
+ (#Experiment_7[35] |= $Restriction_7_4) or
+ (#Experiment_7[36] |= $Restriction_7_4) or
+ (#Experiment_7[37] |= $Restriction_7_4); 
+
+(#Experiment_7[40] |= $Restriction_7_5) or
+ (#Experiment_7[41] |= $Restriction_7_5) or
+ (#Experiment_7[42] |= $Restriction_7_5) or
+ (#Experiment_7[43] |= $Restriction_7_5) or
+ (#Experiment_7[44] |= $Restriction_7_5) or
+ (#Experiment_7[45] |= $Restriction_7_5) or
+ (#Experiment_7[46] |= $Restriction_7_5) or
+ (#Experiment_7[47] |= $Restriction_7_5) or
+ (#Experiment_7[48] |= $Restriction_7_5); 
+
+(#Experiment_7[51] |= $Restriction_7_6) or
+ (#Experiment_7[52] |= $Restriction_7_6) or
+ (#Experiment_7[53] |= $Restriction_7_6) or
+ (#Experiment_7[54] |= $Restriction_7_6) or
+ (#Experiment_7[55] |= $Restriction_7_6) or
+ (#Experiment_7[56] |= $Restriction_7_6) or
+ (#Experiment_7[57] |= $Restriction_7_6) or
+ (#Experiment_7[58] |= $Restriction_7_6) or
+ (#Experiment_7[59] |= $Restriction_7_6); 
+
+(#Experiment_7[62] |= $Restriction_7_7) or
+ (#Experiment_7[63] |= $Restriction_7_7) or
+ (#Experiment_7[64] |= $Restriction_7_7) or
+ (#Experiment_7[65] |= $Restriction_7_7) or
+ (#Experiment_7[66] |= $Restriction_7_7) or
+ (#Experiment_7[67] |= $Restriction_7_7) or
+ (#Experiment_7[68] |= $Restriction_7_7) or
+ (#Experiment_7[69] |= $Restriction_7_7) or
+ (#Experiment_7[70] |= $Restriction_7_7); 
+
+(#Experiment_7[73] |= $Restriction_7_8) or
+ (#Experiment_7[74] |= $Restriction_7_8) or
+ (#Experiment_7[75] |= $Restriction_7_8) or
+ (#Experiment_7[76] |= $Restriction_7_8) or
+ (#Experiment_7[77] |= $Restriction_7_8) or
+ (#Experiment_7[78] |= $Restriction_7_8) or
+ (#Experiment_7[79] |= $Restriction_7_8) or
+ (#Experiment_7[80] |= $Restriction_7_8) or
+ (#Experiment_7[81] |= $Restriction_7_8); 
+
+(#Experiment_7[84] |= $Restriction_7_9) or
+ (#Experiment_7[85] |= $Restriction_7_9) or
+ (#Experiment_7[86] |= $Restriction_7_9) or
+ (#Experiment_7[87] |= $Restriction_7_9) or
+ (#Experiment_7[88] |= $Restriction_7_9) or
+ (#Experiment_7[89] |= $Restriction_7_9) or
+ (#Experiment_7[90] |= $Restriction_7_9) or
+ (#Experiment_7[91] |= $Restriction_7_9) or
+ (#Experiment_7[92] |= $Restriction_7_9); 
+
+(#Experiment_7[95] |= $Restriction_7_10) or
+ (#Experiment_7[96] |= $Restriction_7_10) or
+ (#Experiment_7[97] |= $Restriction_7_10) or
+ (#Experiment_7[98] |= $Restriction_7_10) or
+ (#Experiment_7[99] |= $Restriction_7_10) or
+ (#Experiment_7[100] |= $Restriction_7_10) or
+ (#Experiment_7[101] |= $Restriction_7_10) or
+ (#Experiment_7[102] |= $Restriction_7_10) or
+ (#Experiment_7[103] |= $Restriction_7_10);

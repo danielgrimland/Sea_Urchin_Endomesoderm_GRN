@@ -1,0 +1,698 @@
+nodal_ecto(1..17);
+
+smad_not_gene_protien(1..17);
+
+smad(1..17);
+
+not_gene(1..17);
+
+unkn_runx(1..17);
+
+unkn_gatac(1..17);
+
+gatac(1..17);
+
+unkn_scl(1..17);
+
+scl(1..17);
+
+runx(1..17);
+
+ese(1..17);
+
+prox(1..17);
+
+r11pmdelta(1..17);
+
+r11pmdelta_nrl_protien(1..17);
+
+nrl(1..17);
+
+unkn_nrl(1..17);
+
+blimp1(1..17);
+
+blimp1_activate(1..17);
+
+hesc(1..17);
+
+ets1(1..17);
+
+unkn_ets1(1..17);
+
+otx(1..17);
+
+gcm(1..17);
+
+six12(1..17);
+
+gatae(1..17);
+
+erg(1..17);
+
+hex(1..17);
+
+tbr(1..17);
+
+alx1(1..17);
+
+z166(1..17);
+
+fog(1..17);
+
+gatae_fog_protien(1..17);
+
+capk(1..17);
+
+decorin(1..17);
+
+pks(1..17);
+
+sutx(1..17);
+
+dpt(1..17);
+
+fvmo123(1..17);
+
+notch(1..17);
+
+suhn(1..17);
+
+notch_suhn_protien(1..17);
+
+suh(1..17);
+
+suh_notch_suhn_protien(1..17);
+
+foxy(1..17);
+
+unkn_soxe(1..17);
+
+soxe(1..17);
+
+smo(1..17);
+
+ptc(1..17);
+
+smo_ptc_hh_protien(1..17);
+
+foxf(1..17);
+
+gsk3(1..17);
+
+wnt8(1..17);
+
+frizzled(1..17);
+
+eve(1..17);
+
+hox1113b(1..17);
+
+hnf1(1..17);
+
+signalv2(1..17);
+
+vegf3(1..17);
+
+gsk3_x_protien(1..17);
+
+gsk3_x_nbtcf_protien(1..17);
+
+bra(1..17);
+
+nbtcf_protien(1..17);
+
+unc41(1..17);
+
+unkn_soxb1(1..17);
+
+soxb1(1..17);
+
+wnt16(1..17);
+
+soxc(1..17);
+
+foxa(1..17);
+
+krl(1..17);
+
+myc(1..17);
+
+brn124(1..17);
+
+tgif(1..17);
+
+hh(1..17);
+
+dac(1..17);
+
+endo16(1..17);
+
+wnt16_hox1113b_protien(1..17);
+
+signalv2_protien(1..17);
+
+g_cadherin(1..17);
+
+cb(1..17);
+
+wnt6(1..17);
+
+nucl_protien(1..17);
+
+ecns_protien(1..17);
+
+x_protien(1..17);
+
+ubiq_soxc(1..17);
+
+ubiq_es(1..17);
+
+es(1..17);
+
+pmar1(1..17);
+
+ubiq_hesc(1..17);
+
+activin_b(1..17);
+
+rhoa(1..17);
+
+rhoa_soxb1_protien(1..17);
+
+ubiq_hnf6(1..17);
+
+hnf6(1..17);
+
+ubiq_ets1(1..17);
+
+ubiq_tel(1..17);
+
+tel(1..17);
+
+foxn23(1..17);
+
+dri(1..17);
+
+foxb(1..17);
+
+foxo(1..17);
+
+vegfr(1..17);
+
+l1(1..17);
+
+l1_vegfr_vegf3_protien(1..17);
+
+sm27(1..17);
+
+sm50(1..17);
+
+msp130(1..17);
+
+mspl(1..17);
+
+sm30(1..17);
+
+ficolin(1..17);
+
+cyp(1..17);
+
+ubiq_gcadherin(1..17);
+
+gcadherin(1..17);
+
+
+
+not_gene gcm negative optional;
+
+nodal_ecto smad_not_gene_protien positive optional;
+
+smad_not_gene_protien not_gene positive optional;
+
+smad smad_not_gene_protien positive optional;
+
+unkn_gatac gatac positive optional;
+
+gatac gatac negative optional;
+
+unkn_scl scl positive optional;
+
+unkn_runx runx positive optional;
+
+unkn_ets1 ets1 positive optional;
+
+runx ese positive optional;
+
+runx prox positive optional;
+
+runx r11pmdelta positive optional;
+
+r11pmdelta r11pmdelta_nrl_protien positive optional;
+
+unkn_nrl nrl positive optional;
+
+nrl r11pmdelta_nrl_protien positive optional;
+
+blimp1 blimp1_activate positive optional;
+
+blimp1_activate hesc negative optional;
+
+hesc ets1 negative optional;
+
+hesc r11pmdelta negative optional;
+
+gcm gatae positive optional;
+
+gatae six12 positive optional;
+
+six12 gcm positive optional;
+
+erg tbr negative optional;
+
+ets1 hex positive optional;
+
+ets1 erg positive optional;
+
+gcm gcm positive optional;
+
+gcm alx1 negative optional;
+
+gcm gatac negative optional;
+
+gatae gatac negative optional;
+
+gcm z166 positive optional;
+
+gcm prox negative optional;
+
+gatae otx positive optional;
+
+otx gatae positive optional;
+
+gatae nrl negative optional;
+
+gatae gatae_fog_protien positive optional;
+
+fog gatae_fog_protien positive optional;
+
+gatae_fog_protien prox negative optional;
+
+gcm pks positive optional;
+
+gatae pks positive optional;
+
+gcm sutx positive optional;
+
+gatae sutx positive optional;
+
+gcm dpt positive optional;
+
+gatae fvmo123 positive optional;
+
+gcm fvmo123 positive optional;
+
+notch notch_suhn_protien positive optional;
+
+r11pmdelta_nrl_protien suhn positive optional;
+
+suhn notch_suhn_protien positive optional;
+
+suh suh_notch_suhn_protien positive optional;
+
+notch_suhn_protien suh_notch_suhn_protien positive optional;
+
+suh_notch_suhn_protien foxy positive optional;
+
+unkn_soxe soxe positive optional;
+
+smo smo_ptc_hh_protien positive optional;
+
+ptc smo_ptc_hh_protien positive optional;
+
+smo_ptc_hh_protien foxf positive optional;
+
+foxf soxe positive optional;
+
+soxe foxf positive optional;
+
+wnt8 frizzled positive optional;
+
+frizzled gsk3 negative optional;
+
+gsk3 gsk3_x_protien negative optional;
+
+gsk3_x_protien gsk3_x_nbtcf_protien positive optional;
+
+gsk3_x_nbtcf_protien eve positive optional;
+
+gsk3_x_nbtcf_protien wnt8 positive optional;
+
+gsk3_x_nbtcf_protien wnt8 negative optional;
+
+gsk3_x_nbtcf_protien hox1113b negative optional;
+
+gsk3_x_nbtcf_protien eve negative optional;
+
+gsk3_x_nbtcf_protien bra positive optional;
+
+gsk3_x_nbtcf_protien bra negative optional;
+
+gsk3_x_nbtcf_protien hox1113b positive optional;
+
+eve hox1113b positive optional;
+
+bra otx positive optional;
+
+hox1113b bra positive optional;
+
+otx bra positive optional;
+
+hnf1 hnf1 negative optional;
+
+eve hnf1 positive optional;
+
+bra hnf1 positive optional;
+
+eve signalv2 positive optional;
+
+nbtcf_protien eve positive optional;
+
+eve unc41 positive optional;
+
+nbtcf_protien eve negative optional;
+
+unkn_soxb1 soxb1 negative optional;
+
+soxb1 soxb1 negative optional;
+
+wnt16 wnt16_hox1113b_protien positive optional;
+
+wnt16_hox1113b_protien hox1113b positive optional;
+
+nbtcf_protien hox1113b positive optional;
+
+nbtcf_protien hox1113b negative optional;
+
+nbtcf_protien soxc positive optional;
+
+nbtcf_protien blimp1 positive optional;
+
+nbtcf_protien blimp1 negative optional;
+
+nbtcf_protien krl positive optional;
+
+nbtcf_protien krl negative optional;
+
+nbtcf_protien foxa positive optional;
+
+nbtcf_protien foxa negative optional;
+
+nbtcf_protien bra positive optional;
+
+nbtcf_protien bra negative optional;
+
+hox1113b eve negative optional;
+
+hox1113b hox1113b negative optional;
+
+hox1113b wnt16 positive optional;
+
+hox1113b blimp1 positive optional;
+
+hox1113b gatae positive optional;
+
+hox1113b foxa positive optional;
+
+soxc soxc negative optional;
+
+otx otx positive optional;
+
+otx foxa positive optional;
+
+otx blimp1 positive optional;
+
+otx endo16 positive optional;
+
+blimp1 otx positive optional;
+
+gatae bra positive optional;
+
+gatae krl negative optional;
+
+gatae brn124 positive optional;
+
+blimp1 brn124 positive optional;
+
+otx brn124 positive optional;
+
+krl brn124 positive optional;
+
+myc hox1113b negative optional;
+
+signalv2 signalv2_protien positive optional;
+
+signalv2_protien blimp1 positive optional;
+
+signalv2_protien gatae positive optional;
+
+bra foxa positive optional;
+
+foxa foxa negative optional;
+
+foxa gcm negative optional;
+
+myc krl negative optional;
+
+myc myc negative optional;
+
+dac krl negative optional;
+
+foxa krl negative optional;
+
+blimp1 krl negative optional;
+
+bra tgif positive optional;
+
+blimp1 tgif positive optional;
+
+myc tgif positive optional;
+
+foxa hh positive optional;
+
+dac hh positive optional;
+
+krl hh positive optional;
+
+otx hh positive optional;
+
+tgif hh positive optional;
+
+dac dac negative optional;
+
+hh smo_ptc_hh_protien positive optional;
+
+otx nucl_protien positive optional;
+
+gsk3 x_protien negative optional;
+
+x_protien nbtcf_protien positive optional;
+
+ecns_protien nbtcf_protien positive optional;
+
+cb ecns_protien positive optional;
+
+wnt6 ecns_protien positive optional;
+
+blimp1 blimp1 negative optional;
+
+nucl_protien blimp1 positive optional;
+
+blimp1 wnt8 positive optional;
+
+nbtcf_protien wnt8 positive optional;
+
+nbtcf_protien wnt8 negative optional;
+
+wnt8 gsk3 negative optional;
+
+ubiq_soxc soxc positive optional;
+
+soxc soxc positive optional;
+
+ubiq_es es positive optional;
+
+nucl_protien pmar1 positive optional;
+
+nbtcf_protien pmar1 positive optional;
+
+ubiq_hesc hesc positive optional;
+
+pmar1 hesc negative optional;
+
+blimp1 hesc negative optional;
+
+es activin_b positive optional;
+
+activin_b rhoa positive optional;
+
+rhoa rhoa_soxb1_protien negative optional;
+
+soxb1 rhoa_soxb1_protien positive optional;
+
+alx1 alx1 negative optional;
+
+hesc alx1 negative optional;
+
+alx1 alx1 positive optional;
+
+ets1 alx1 positive optional;
+
+tgif alx1 positive optional;
+
+ubiq_ets1 ets1 positive optional;
+
+ets1 tbr positive optional;
+
+hesc tbr negative optional;
+
+ets1 r11pmdelta positive optional;
+
+foxn23 nrl positive optional;
+
+tbr nrl positive optional;
+
+tgif nrl negative optional;
+
+hesc nrl negative optional;
+
+ubiq_tel tel positive optional;
+
+tel tel negative optional;
+
+hesc tel negative optional;
+
+hex erg positive optional;
+
+tbr erg positive optional;
+
+erg hex positive optional;
+
+tgif hex positive optional;
+
+tgif tgif positive optional;
+
+ets1 tgif positive optional;
+
+erg tgif positive optional;
+
+hex tgif positive optional;
+
+tbr foxn23 positive optional;
+
+nbtcf_protien foxn23 positive optional;
+
+alx1 dri positive optional;
+
+ets1 dri positive optional;
+
+tbr foxb positive optional;
+
+alx1 foxb positive optional;
+
+ets1 foxb positive optional;
+
+dri foxb positive optional;
+
+foxb foxb negative optional;
+
+tgif foxo positive optional;
+
+erg foxo positive optional;
+
+hex vegfr positive optional;
+
+ets1 vegfr positive optional;
+
+dri vegfr positive optional;
+
+alx1 vegfr positive optional;
+
+alx1 gcm negative optional;
+
+l1 l1_vegfr_vegf3_protien positive optional;
+
+vegfr l1_vegfr_vegf3_protien positive optional;
+
+vegf3 l1_vegfr_vegf3_protien positive optional;
+
+ubiq_gcadherin gcadherin positive optional;
+
+l1_vegfr_vegf3_protien sm30 positive optional;
+
+ets1 cyp positive optional;
+
+dri cyp positive optional;
+
+ets1 ficolin positive optional;
+
+hnf6 ficolin positive optional;
+
+hex ficolin positive optional;
+
+erg ficolin positive optional;
+
+hnf6 sm27 positive optional;
+
+tel sm27 positive optional;
+
+dri sm27 positive optional;
+
+erg sm27 positive optional;
+
+ets1 sm27 positive optional;
+
+alx1 sm27 positive optional;
+
+hex sm27 positive optional;
+
+tel sm50 positive optional;
+
+hnf6 sm50 positive optional;
+
+ets1 sm50 positive optional;
+
+dri sm50 positive optional;
+
+alx1 sm50 positive optional;
+
+l1_vegfr_vegf3_protien sm50 positive optional;
+
+hex sm50 positive optional;
+
+erg sm50 positive optional;
+
+foxb msp130 positive optional;
+
+hnf6 msp130 positive optional;
+
+alx1 msp130 positive optional;
+
+ets1 msp130 positive optional;
+
+hex msp130 positive optional;
+
+tbr msp130 positive optional;
+
+erg msp130 positive optional;
+
+alx1 mspl positive optional;
+
+ets1 mspl positive optional;
+
+hex mspl positive optional;
+
+erg mspl positive optional;
+
+l1_vegfr_vegf3_protien mspl positive optional;
+
