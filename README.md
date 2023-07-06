@@ -20,7 +20,7 @@ This research project incorporates the following key features:
 
 ### ABN Synthesis
 
-We translate data on the system components of the endomesoderm GRN into RE:IN abstract boolean networks (ABNs). ABNs provide a simplified representation of system components, the nature of gene regulatory interactions, and the essential dynamics of the system.
+We translated data on the system components of the endomesoderm GRN into RE:IN abstract boolean networks (ABNs). ABNs provide a simplified representation of system components, the nature of gene regulatory interactions, and the essential dynamics of the system.
 
 ### Experimental Constraints Synthesis
 
@@ -28,7 +28,15 @@ Experimental data is translated from a single file detailing the expression deta
 
 ### Efficient Combination of Constraints and ABNs
 
-We develop an efficient methodology to combine abstract boolean networks with experimental constraints, resulting in constrained abstract boolean networks (cABNs). This quick integration allows quick testing of constraints with ABNs.
+We developed an efficient methodology to combine abstract boolean networks with experimental constraints, resulting in constrained abstract boolean networks (cABNs). This quick integration allows quick testing of constraints with ABNs.
+
+### Model Visualization
+
+Untranslated ABN data is efficiently converted into a Cytoscape model, allowing the visualization of large networks and model sharing via image and website functionalities built into Cytoscape.
+
+## Future Plans
+
+We plan to optimize previously created code to achieve better time and space complexity. Moreover, while visual style generation functionalities were developed and there is support for the mapping of visual attributes, automatic visual style generation is currently being developed.
 
 ## Further Reading
 
