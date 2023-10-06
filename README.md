@@ -50,4 +50,4 @@ Please note that this research project is an ongoing endeavor. For any inquiries
 
 <a href="mailto:DanielGrimland@gmail.com">Daniel Grimland</a>
 
-<a href="mailto:Tbaum.Eitan@gmail.com">Tannenbaum Eitan</a>
+<a href="mailto:Tbaum.Eitan@gmail.com">Eitan Tannenbaum</a>
