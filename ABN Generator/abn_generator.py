@@ -4,11 +4,11 @@ from pathlib import Path
 import copy as c
 
 
-UNTRANSLATED_INPUT = f"Domain-Divided_Input_ABN_all_optional"
-OUTPUT_NAME =  f"Domain-Divided_ABN_test_new_gen"
+UNTRANSLATED_INPUT = f"---"
+OUTPUT_NAME =  f"---"
 
-OUTPUT_FOLDER = Path(rf"C:\Users\Lithi\OneDrive\שולחן העבודה\Alpha Research\Programs\Sea Urchin Endomesoderm Models and Tools\ABN Storage\Domain-Divided")
-DATA_FOLDER = Path(rf"C:\Users\Lithi\OneDrive\שולחן העבודה\Alpha Research\Programs\Sea Urchin Endomesoderm Models and Tools\Untranslated Input Data\Domain-Divided")
+OUTPUT_FOLDER = Path(rf"---")
+DATA_FOLDER = Path(rf"---")
 
 
 # Inputs: a .txt file name.
