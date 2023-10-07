@@ -112,11 +112,11 @@ def generate_abn(components, interactions):
             abn.write(f"{components[i]}\n")
             abn.write("\n")
 
-        abn.write("\n\n")
+        abn.write("\n")
 
         for i in range(len(interactions) - 1):
             abn.write(f"{interactions[i]}\n")
-            abn.write("\n")
+            abn.write("\n\n\n")
 
         abn.write(f"{interactions[-1]}")
 
