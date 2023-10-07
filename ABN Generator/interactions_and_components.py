@@ -11,7 +11,6 @@ class Component:
         
         self.start_range = start_range
         self.end_range = end_range
-        self.line_appearence_index = line_appearence_index
 
     
     def __str__(self):
@@ -27,7 +26,6 @@ class Interaction:
         self.is_pos = is_pos
         self.is_def = is_def
         self.delay = delay
-        self.line_appearence_index = line_appearence_index
 
     
     def __str__(self):
