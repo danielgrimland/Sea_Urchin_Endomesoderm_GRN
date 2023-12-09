@@ -596,7 +596,7 @@ def format_constraint_expressions(constraints):
                                             if (str(type(CONSTRAINT_EXPRESSIONS[e_number][c_number][i][j])) != "<class 'str'>"):
                                                 f.error(f"Range {j + 1} of Tuple {i + 1} in the list of constraint number {c_number} in experiment {e_number} is not a string")
 
-                                            elif (not(re.search("^([1-9][0-9]*)\-([1-9][0-9]*)$", CONSTRAINT_EXPRESSIONS[e_number][c_number][i][j]))):
+                                            elif (not(re.search("^([0-9]*)\-([0-9]*)$", CONSTRAINT_EXPRESSIONS[e_number][c_number][i][j]))):
                                                 f.error(f"Range {j + 1} of Tuple {i + 1} in the list of constraint number {c_number} in experiment {e_number} is not a proper range (see manual).")
                                                                                         
                                             else:
