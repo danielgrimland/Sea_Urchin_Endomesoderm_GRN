@@ -1,0 +1,9 @@
+Purpose and Usage:
+________________________________________________________________________________________________________________________________________________
+
+The ABN generator can transform a description of an ABN into a special format and output a proper RE:IN ABN.
+to some additional functionalities it can perform.
+
+To use it, simply provide the path to the data file used and a path to the location you want to store the ABN at.
+
+Note: You don't need to specify the file extension (.txt) when inputting files.
