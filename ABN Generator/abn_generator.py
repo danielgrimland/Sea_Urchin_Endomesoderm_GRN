@@ -143,7 +143,7 @@ def add_time_delays(components, interactions):
 # Outputs: a RE:IN ABN.
 def generate_abn(components, interactions):
     try:
-        with open(OUTPUT_FOLDER.joinpath(OUTPUT_NAME + ".txt"), 'w') as abn:
+        with open(OUTPUT_FOLDER.joinpath(OUTPUT_NAME + ".rein"), 'w') as abn:
             for i in range(len(components)):
                 abn.write(f"{components[i]}\n")
                 abn.write("\n")
