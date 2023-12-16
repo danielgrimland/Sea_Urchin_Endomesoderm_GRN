@@ -1,9 +1,0 @@
-Purpose and Usage:
-________________________________________________________________________________________________________________________________________________
-
-The Cytoscape Model Generator takes a RE:IN cABN and visualizes it using Cytoscape. The resultant model defines
-partitions of the edges and nodes into groups according to the needs of the user and to allow sylizing each according to the
-user's intent.
-
-To use it, simply provide the path and name of a .rein file and specify groups of components if you desire (if you do such, make sure
-the components in your file have names which end with their groups, such as: protien_groupA).
