@@ -3,18 +3,6 @@ import functions as f
 from state_mapping import State_Mapping
 
 
-# Domain Values: the possible states a set of activators or repressors can be in in,
-# which simplify the states their components can be in. Every number represents a state and the level of activity of components
-# it corresponds to. Thus, higher values correspond with more components active stronger in a set of activators or repressors.
-
-# Domain: all possible pairs of states of activators and repressors. each element of the domain is a tuple (x, y), where:
-# x is the state of the activators, and y is the state of repressors.
-
-# Codomain: all possible states of genes, which are represented by numbers. Higher numbers are used for more active states.
-
-# Notes: the Domain Values and Codomain should be lists of numbers only, and duplicates in them are ignored.
-
-
 DOMAIN_VALUES = [-1, 0, 1]
 DOMAIN = f.prod(DOMAIN_VALUES)
 CODOMAIN = [0, 1]
