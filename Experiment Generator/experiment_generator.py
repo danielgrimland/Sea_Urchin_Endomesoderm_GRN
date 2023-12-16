@@ -31,7 +31,7 @@ PERTURBATIONS = []
 # Inputs: an ABN.
 # Outputs: the components of the abn.
 def get_components():
-    abn_path = (ABN_FOLDER.joinpath(f"{ABN_FILE}.txt"))
+    abn_path = (ABN_FOLDER.joinpath(f"{ABN_FILE}.rein"))
     components = []
 
     with open(abn_path) as abn:
@@ -371,7 +371,7 @@ def make_folder():
 def create_cabns_perturbations(experiments, expressions, perturbations):
     make_folder()
 
-    abn_path = (ABN_FOLDER.joinpath(f"{ABN_FILE}.txt"))
+    abn_path = (ABN_FOLDER.joinpath(f"{ABN_FILE.rein"))
 
     count = 1
 
@@ -417,7 +417,7 @@ def create_cabns_perturbations(experiments, expressions, perturbations):
 def create_cabns(experiments, expressions):
     make_folder()
 
-    abn_path = (ABN_FOLDER.joinpath(f"{ABN_FILE}.txt"))
+    abn_path = (ABN_FOLDER.joinpath(f"{ABN_FILE}.rein"))
 
     file_path = (OUTPUT_PATH.joinpath(OUTPUT_FOLDER_NAME)).joinpath(f"{OUTPUT_NAME}.rein")
 
