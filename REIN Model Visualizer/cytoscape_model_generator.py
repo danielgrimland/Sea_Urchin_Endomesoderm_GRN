@@ -50,7 +50,8 @@ def get_nodes_and_edges(lines):
         is_component = re.search("^[^\/](.*)\(([0-9]|1[0-7])..([0-9]|1[0-7])\);$", line[0])
         is_interaction = re.search("^(.*) (.*) ((positive)|(negative))( optional)?;$", line[0])
         
-        if (is_component):                 
+        if (is_component):   
+            line[0] = line[0].replace(" ", "")
             with_specification = re.search("(\[\+-\])|(\[-\+\])|(\[-\])|(\[\+\])|(\[!\])", line[0])
             
             if (with_specification):
