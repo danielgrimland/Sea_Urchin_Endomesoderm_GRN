@@ -4,8 +4,8 @@ from pathlib import Path
 import re
 
 
-DATA_FILE = "Kidney_abn"
-DATA_PATH = Path(rf"C:\Users\Lithi\OneDrive\שולחן העבודה\Alpha Research")
+DATA_FILE = "---"
+DATA_PATH = Path(rf"---")
 GROUPS = []
 
 
