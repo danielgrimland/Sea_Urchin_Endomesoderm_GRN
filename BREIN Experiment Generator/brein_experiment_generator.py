@@ -537,4 +537,4 @@ if (len(PERTURBATIONS) != 0):
 else:
     create_cabns(experiments, expressions)
 
-print("cABN(s) Generated")
+print("ctlspec(s) Generated")
